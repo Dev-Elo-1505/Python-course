@@ -7,8 +7,8 @@ import math
 # print(10 // 3)
 # print(10 ** 5)
 
-age = 10
-age /= 10
+age = str(10)
+age += str(10)
 print(age)
 print(round(2.6))
 print(math.sqrt(25))
