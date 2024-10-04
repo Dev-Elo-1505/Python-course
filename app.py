@@ -1,2 +1,3 @@
 print("Heeloo again")
-print("X" * 10)
+x = 1
+print("X") 
