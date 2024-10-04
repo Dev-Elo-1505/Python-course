@@ -1,7 +1,6 @@
-# Strings
-#formatting strings
-goal = "MLH Fellowship"
-first_name = "Joy"
-last_name = "Addisi"
-full_name = f"{first_name} {last_name}"
-print(full_name)
+job = "software engineer"
+print(job.format())
+print(job.join("joined"))
+print(job.center(200).strip())
+print(job.capitalize())
+print(job.isalnum())
