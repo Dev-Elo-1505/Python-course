@@ -1,5 +1,6 @@
 # Strings
 goal = "MLH Fellowship"
-print(len(goal))
-print(goal[4])
-print(goal[0:5])
+first_name = "Joy"
+last_name = "Addisi"
+full_name = f"{first_name} {last_name}"
+print(full_name)
