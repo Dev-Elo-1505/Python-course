@@ -1,4 +1,5 @@
 # Strings
+#formatting strings
 goal = "MLH Fellowship"
 first_name = "Joy"
 last_name = "Addisi"
